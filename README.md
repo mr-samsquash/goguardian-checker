@@ -38,6 +38,10 @@ If there’s an error (e.g., network issue, invalid domain), it will return an e
 
 * `goguardian.py` — main script.
 
+## How Did You Do This?
+
+GoGuardian exposes the latest version at https://ext.goguardian.com/stable.xml.
+
 ## Notes
 
 * The script relies on an API key (`AUTH_KEY`) defined in the file. Replace it with your own if necessary.
